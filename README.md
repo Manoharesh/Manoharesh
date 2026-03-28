@@ -85,9 +85,9 @@ LeetCode: https://leetcode.com/u/Manoharesh_Sivakumar/
 
 ## Connect
 
-*Open to collaboration on AI/ML projects
+Open to collaboration on AI/ML projects
 
-*Contact details available in my profile
+Contact details available in my profile
 
 ---
 
