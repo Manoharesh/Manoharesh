@@ -1,80 +1,60 @@
 <div align="center">
 
-# MANOHARESH SIVAKUMAR
+# Hey, I'm Manoharesh 👋
 
-### AI & Data Science Engineer · Builder · Problem Solver
+**AI & Data Science Student** · Building real things with ML and code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoharesh-sivakumar-65465732a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Manoharesh_Sivakumar/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharesh20006@gmail.com)
-
----
-
-> *"I don't just study AI — I build with it."*
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoharesh)
 
 </div>
 
 ---
 
-## ⚡ Who Am I
+## About Me
 
-- 🎓 **B.Tech AI & DS** @ St. Joseph's College of Engineering, Chennai — CGPA: **8.82**
-- 🏆 **Hackathon Winner** — 1st Place at Cyber Guardians | Finalist at Hacknova
-- 🎤 Delivered a **1-hour talk on Neural Networks** to a class of AI & DS students
-- 🧠 **Technical Co-Lead**, Data Analytics Club
-- 🏋️ Powerlifter — I train heavy in the gym and in code
+I'm a 2nd-year B.Tech student in AI & Data Science, passionate about building AI systems that actually solve problems — not just toy demos.
+
+I enjoy working across the full ML pipeline: from cleaning messy data to deploying models. I'm also into backend systems, and I like understanding *why* things work, not just *how* to make them run.
+
+Currently exploring: **LLMs · RAG · Autonomous Agents · Applied ML**
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 **ML & Data**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
 **Frameworks & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🤖 GovUnified Chatbot
-> Multilingual AI assistant supporting 3+ languages for government services
-- Built with **FastAPI + Whisper + FAISS + NLLB + Ollama**
-- End-to-end pipeline: speech → translation → semantic search → response
-- Focused on accessibility for non-English speaking users
+A multilingual AI chatbot supporting 3+ languages, built with FastAPI, Whisper (speech-to-text), FAISS (vector search), NLLB (translation), and Ollama (local LLM). Designed for accessible, language-agnostic information retrieval.
 
----
-
-### 📊 Sys-Health — Real-Time System Monitor
-> Live hardware monitoring dashboard tracking 5+ system metrics
-- Built using **psutil** with logging and alerting capabilities
-- Tracks CPU, RAM, disk, network, and process health in real time
-
----
+### 📊 Sys-Health
+A real-time system monitoring tool built with `psutil`. Tracks CPU, memory, disk, and other hardware metrics with live logging — lightweight and runs locally.
 
 ### 🩺 Diabetes Prediction Model
-> ML classification model on an imbalanced medical dataset
-- Achieved **73% accuracy** using **SMOTE + ensemble stacking** (4 models)
-- Tackled real-world class imbalance — not just a clean Kaggle demo
+An ML classification model trained on an imbalanced medical dataset. Used SMOTE for oversampling and an ensemble stacking approach (4 models) to achieve 73% accuracy.
 
 ---
 
@@ -82,7 +62,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoharesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Manoharesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoharesh&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharesh&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -90,18 +70,14 @@
 
 ---
 
-## 🎯 Currently Exploring
+## 📬 Let's Connect
 
-- 🤖 LLMs, RAG pipelines & autonomous AI agents
-- 🔐 AI applications in **cybersecurity & finance**
-- 🧬 Vision Transformers & Reinforcement Learning
-- ⚙️ Building production-grade AI systems end-to-end
+I'm open to collaborating on AI/ML projects, discussing ideas, or just geeking out about tech.
+
+Reach me at **manoharesh20006@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/manoharesh-sivakumar-65465732a/).
 
 ---
 
 <div align="center">
-
-**Open to internships, research collabs, and AI/ML projects.**
-*Let's build something that matters.*
-
+  <i>"Learning deeply. Building with intent."</i>
 </div>
